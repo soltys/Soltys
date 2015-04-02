@@ -1,0 +1,3 @@
+[submodule "ChangeCase"]
+	path = ChangeCase
+	url = https://github.com/soltys/Soltys.ChangeCase.git
